@@ -1,4 +1,9 @@
 package TP5;
 
-public class Abstrait2 {
+abstract public class Abstrait2 extends Abstrait1{
+
+    public void affichage(){
+        System.out.println("Abstrait 2");
+    }
+
 }

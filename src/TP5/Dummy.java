@@ -1,4 +1,4 @@
 package TP5;
 
-public class Dummy {
+public class Dummy extends Abstrait2 {
 }

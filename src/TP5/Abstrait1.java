@@ -1,4 +1,9 @@
 package TP5;
 
-public class Abstrait1 {
+abstract public class Abstrait1 {
+
+    public void affichage(){
+        System.out.println("Abstrait 1");
+    }
+
 }
